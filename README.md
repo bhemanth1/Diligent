@@ -117,11 +117,11 @@ python -m jarvis.backend.ingest
 
 --
 By:
-Bandi Hemanth
-22WU0106028
-hemanth.bandi_2026@woxsen.edu.in
-BIC - SECTION
-WOXSEN UNIVERSITY
+- Bandi Hemanth
+- 22WU0106028
+- hemanth.bandi_2026@woxsen.edu.in
+- BIC - SECTION
+- WOXSEN UNIVERSITY
 
 
 
