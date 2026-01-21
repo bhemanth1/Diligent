@@ -115,5 +115,13 @@ python -m jarvis.backend.ingest
 <img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/e1bd64db-fdd7-4ba6-83eb-b1216040bee5" />
 <img width="1919" height="1015" alt="image" src="https://github.com/user-attachments/assets/69abd817-5ec0-400e-8cb5-5eb5963bf304" />
 
+--
+By:
+Bandi Hemanth
+22WU0106028
+hemanth.bandi_2026@woxsen.edu.in
+BIC - SECTION
+WOXSEN UNIVERSITY
+
 
 
