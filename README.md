@@ -39,4 +39,8 @@ Open the frontend (default http://localhost:5173). Ask questions; the backend re
 
 ## Config
 - Edit `.env` to change Pinecone settings, model name, or embedding dimensions.
+# Screen Shots
+<img width="1916" height="1025" alt="image" src="https://github.com/user-attachments/assets/edd386ae-25cb-4a6b-abc7-907756be7755" />
+
 - The embedder is `all-MiniLM-L6-v2` (384 dims); ensure your Pinecone index dimension matches `EMBED_DIM`.
+
